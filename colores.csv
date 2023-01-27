@@ -1,0 +1,25 @@
+nombre,r,g,b
+rojo,255,0,0
+verde,0,255,0
+azul,0,0,255
+amarillo,255,255,0
+magenta,255,0,255
+cian,0,255,255
+naranja,255,165,0
+morado,128,0,128
+rosa,255,192,203
+marron,165,42,42
+gris,128,128,128
+negro,0,0,0
+blanco,255,255,255
+verde claro,144,238,144
+verde oscuro,0,100,0
+azul claro,173,216,230
+azul oscuro,0,0,139
+morado claro,230,230,250
+morado oscuro,148,0,211
+gris claro,211,211,211
+gris oscuro,169,169,169
+rosa claro,255,182,193
+rosa oscuro,255,20,147
+marron claro,205,133,63
